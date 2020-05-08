@@ -1,0 +1,9 @@
+backend:
+  name: test-repo
+media_folder: "assets/uploads"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "_posts/"
+    fields:
+      - { name: Title }
