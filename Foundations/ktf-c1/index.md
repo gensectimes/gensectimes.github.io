@@ -30,7 +30,7 @@ We assume you have a [Univ.AI](https://courses.univ.ai) account, created when yo
 
 ### Dr. Pavlos Protopapas - Your Data Science Guru
 <p align="center">
-  <img src=index.assets/pavlosimage.jpeg width="200"/>
+  <img src=/index.assets/pavlosimage.jpeg width="200"/>
 </p>
 
 
@@ -48,13 +48,13 @@ The teaching assistants for the duration of this course are
 
 - Varshini Reddy, your head TA
 <p>
-  <img src=index.assets/varshini.jpeg width="150"/>
+  <img src=/index.assets/varshini.jpeg width="150"/>
 </p>
 
 - Hargun Oberoi
 
 <p>
-  <img src=index.assets/hargun.jpeg width="150"/>
+  <img src=/index.assets/hargun.jpeg width="150"/>
 
 
 
@@ -80,7 +80,7 @@ Our module policies around collaboration and grading are listed [here](policy.md
 
 ### High level course schedule
 
-![](index.assets/schedule.jpg)
+![](/index.assets/schedule.jpg)
 
 *NOTE*: Below timings are in IST
 
@@ -117,7 +117,7 @@ Before you begin the course, we have prepared for you a simple exercise to ensur
 
 This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
 
-![](index.assets/edplatform.jpeg)
+![](/index.assets/edplatform.jpeg)
 
 Please find a more detailed summary of the pre-requisites for this program [here]() 
 
@@ -127,7 +127,7 @@ Please find a more detailed summary of the pre-requisites for this program [here
 
 Here is a high level overview of what you will learn in this course.
 
-![](index.assets/content.jpeg)
+![](/index.assets/content.jpeg)
 
 You can find a more detailed syllabus [here]()
 
@@ -142,4 +142,4 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 
 We wish you best of luck for your data science journey.
 
-![](index.assets/end.jpeg)
+![](/index.assets/end.jpeg)
