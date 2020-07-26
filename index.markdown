@@ -30,6 +30,12 @@ We assume you have a [Univ.AI](https://courses.univ.ai) account, created when yo
 
 ### Dr. Pavlos Protopapas - Your Data Science Guru
 
+<div align="center">
+<img src="https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)" width=200px>
+</div>
+
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
+
 Scientific Director of the Institute for
 Applied Computational Science (IACS).<br>Teaches CS109a, CS109b and the
 Capstone course for the Data Science
@@ -43,7 +49,13 @@ and eating.
 The teaching assistants for the duration of this course are
 
 - Varshini Reddy, your head TA
+
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
+
 - Hargun Oberoi
+
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
+
 
 They will be assisted, especially on the forums, by
 
