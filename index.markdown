@@ -6,7 +6,7 @@ layout: index
 title: C001
 ---
 
-## Artificial Intelligence - C001 🤖
+## Artificial Intelligence - C001
 
 >*Statistics, Math, Computer Science. Physics.Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only data science, master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a data scientist called  Pavlos, whose mission was to train the next generation in the mystic arts of Data Science*
 
