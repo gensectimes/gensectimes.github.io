@@ -32,23 +32,26 @@ We assume you have a [Univ.AI](https://courses.univ.ai) account, created when yo
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
-Scientific Director of the Institute for
-Applied Computational Science (IACS).<br>Teaches CS109a, CS109b and the
+- Scientific Director of the Institute for
+Applied Computational Science (IACS).
+- Teaches CS109a, CS109b and the
 Capstone course for the Data Science
-masters program. <br>He is a leader in
+masters program.
+- He is a leader in
 astrostatistics and he is excited about
 the new telescopes coming online in
 the next few years. He loves cooking
 and eating.
-<br>You can [read more about him here](https://www.univ.ai/teams/pavlos-protopapas-2).
+
+You can [read more about him here](https://www.univ.ai/teams/pavlos-protopapas-2).
 
 The teaching assistants for the duration of this course are
 
-- Varshini Reddy, your head TA
+#### Varshini Reddy, your head TA
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
 
-- Hargun Oberoi
+#### Hargun Oberoi
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
 
