@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include before.html %}
+  {% include header.html %}
+
+  <article>
+
+    {{ content }}
+
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    
+  </article>
+
+  {% include after.html %}
+  {% include math.html %}
+</body>
+</html>

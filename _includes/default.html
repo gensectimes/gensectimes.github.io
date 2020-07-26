@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% include head.html %}
+  {% include twittercard.html %}
+  {% include opengraphmeta.html %}
+</head>
+<body>
+  {% include before.html %}
+
+  {% include header.html %}
+  <article>
+    
+
+    {{ content }}
+
+    {% if page.layout != 'index' %}
+    <section>
+      <p class="signoff"><em><a href="{{ site.baseurl }}">Home</a></em></p>
+    </section>
+    {% endif %}
+  </article>
+
+  {% include after.html %}
+  {% include math.html %}
+</body>
+</html>

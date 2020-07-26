@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "space.css",
+	"sources": [
+		"space.scss"
+	],
+	"sourcesContent": [
+		"@charset \"utf-8\";\n@font-face {\n    font-family: 'Spacegrotesk';\n    src: url('https://uploads-ssl.webflow.com/5d4462a939958fb85d61acc2/5d5e96bfaa3dfe610fa74add_SpaceGrotesk-Bold.otf') format('opentype');\n    font-weight: 700;\n    font-style: normal;\n  }\n  @font-face {\n    font-family: 'Spacegrotesk';\n    src: url('https://uploads-ssl.webflow.com/5d4462a939958fb85d61acc2/5d5e96bfaa3dfe7d7da74ae0_SpaceGrotesk-Medium.otf') format('opentype');\n    font-weight: 500;\n    font-style: normal;\n  }\n  @font-face {\n    font-family: 'Spacegrotesk';\n    src: url('https://uploads-ssl.webflow.com/5d4462a939958fb85d61acc2/5d5e96bf240e837cc1a9442a_SpaceGrotesk-Regular.otf') format('opentype');\n    font-weight: 400;\n    font-style: normal;\n  }\n  @font-face {\n    font-family: 'Spacegrotesk';\n    src: url('https://uploads-ssl.webflow.com/5d4462a939958fb85d61acc2/5d5e96c0aa3dfe6673a74ae1_SpaceGrotesk-SemiBold.otf') format('opentype');\n    font-weight: 600;\n    font-style: normal;\n  }"
+	],
+	"names": [],
+	"mappings": "AACA,UAAU,GACN,WAAW,EAAE,cAAc,EAC3B,GAAG,EAAE,8GAA8G,CAAC,kBAAkB,EACtI,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM;;AAEpB,UAAU,GACR,WAAW,EAAE,cAAc,EAC3B,GAAG,EAAE,gHAAgH,CAAC,kBAAkB,EACxI,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM;;AAEpB,UAAU,GACR,WAAW,EAAE,cAAc,EAC3B,GAAG,EAAE,iHAAiH,CAAC,kBAAkB,EACzI,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM;;AAEpB,UAAU,GACR,WAAW,EAAE,cAAc,EAC3B,GAAG,EAAE,kHAAkH,CAAC,kBAAkB,EAC1I,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM"
+}

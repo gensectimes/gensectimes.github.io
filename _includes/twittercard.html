@@ -1,0 +1,16 @@
+<!-- Twitter cards -->
+<meta name="twitter:site"    content="@{{ page.author_twitter }}">
+<meta name="twitter:creator" content="{{ page.author }}">
+<meta name="twitter:title"   content="{{ page.title }}">
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+{% if page.heroimage %}
+<meta name="twitter:card"  content="summary_large_image">
+<meta name="twitter:image" content="{{ site.fullurl }}/assets/{{ page.heroimage }}">
+{% endif %}
+<!-- end of Twitter cards -->

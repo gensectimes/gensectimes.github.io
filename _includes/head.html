@@ -1,0 +1,44 @@
+<meta charset="utf-8">
+<meta name="generator" content="pandoc">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="author" content="{{ site.author }}">
+{% if page.date %}
+<meta name="dcterms.date" content="{{ page.date }}">
+{% endif %}
+{% if page.keywords %}
+<meta name="keywords" content="{{ page.keywords | join: ' ' }}">
+{% endif %}
+
+<title>{{ page.title }} – {{ site.title }}</title>
+
+<link href="https://uploads-ssl.webflow.com/5d4462a939958fb85d61acc2/5d668b995e626ff19a2a22e3_Favicon.png" rel="shortcut icon" type="image/x-icon"/>
+<link href="https://uploads-ssl.webflow.com/5d4462a939958fb85d61acc2/5d668ba5f0c41579933fdc63_webclip.png" rel="apple-touch-icon"/>
+<!-- TODO(jez): canonical URL -->
+<!-- TODO(jez): OpenGraph tags -->
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/font-et-book/0.1/et-book.min.css">
+<!--link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"-->
+<link rel="stylesheet" href="{{ site.baseurl }}assets/css/space.css">
+<link rel="stylesheet" href="{{ site.baseurl }}assets/css/main.css">
+
+<!-- -->
+
+{% if page.math %}
+  <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css"-->
+{% endif %}
+
+<!--[if lt IE 9]>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+<![endif]-->
+
+{% if site.header_includes %}
+  {% for header_include in site.header_includes %}
+    {{ header_include }}
+  {% endfor %}
+{% endif %}
+
+{% if page.header_includes %}
+  {% for header_include in page.header_includes %}
+    {{ header_include }}
+  {% endfor %}
+{% endif %}
