@@ -30,7 +30,7 @@ We assume you have a [Univ.AI](https://courses.univ.ai) account, created when yo
 
 ### Dr. Pavlos Protopapas - Your Data Science Guru
 <p align="center">
-  <img src=/index.assets/pavlosimage.jpeg width="200"/>
+  <img src=https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true width="200"/>
 </p>
 
 
@@ -47,14 +47,14 @@ and eating.
 The teaching assistants for the duration of this course are
 
 - Varshini Reddy, your head TA
-<p>
-  <img src=/index.assets/varshini.jpeg width="150"/>
+<p align='center'>
+  <img src=https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true width="200"/>
 </p>
 
 - Hargun Oberoi
 
-<p>
-  <img src=/index.assets/hargun.jpeg width="150"/>
+<p align = 'center'>
+  <img src=https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true width="200"/>
 
 
 
@@ -80,7 +80,7 @@ Our module policies around collaboration and grading are listed [here](policy.md
 
 ### High level course schedule
 
-![](/index.assets/schedule.jpg)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/schedule.jpg?raw=true)
 
 *NOTE*: Below timings are in IST
 
@@ -117,7 +117,7 @@ Before you begin the course, we have prepared for you a simple exercise to ensur
 
 This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
 
-![](/index.assets/edplatform.jpeg)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.jpeg?raw=true)
 
 Please find a more detailed summary of the pre-requisites for this program [here]() 
 
@@ -127,7 +127,7 @@ Please find a more detailed summary of the pre-requisites for this program [here
 
 Here is a high level overview of what you will learn in this course.
 
-![](/index.assets/content.jpeg)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/content.jpeg?raw=true)
 
 You can find a more detailed syllabus [here]()
 
@@ -142,4 +142,4 @@ Keeping that in mind, you are adviced to give your full active attention to ever
 
 We wish you best of luck for your data science journey.
 
-![](/index.assets/end.jpeg)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/end.jpeg?raw=true)
