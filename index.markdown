@@ -30,10 +30,6 @@ We assume you have a [Univ.AI](https://courses.univ.ai) account, created when yo
 
 ### Dr. Pavlos Protopapas - Your Data Science Guru
 
-<div align="center">
-<img src="https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)" width=200px>
-</div>
-
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
 Scientific Director of the Institute for
@@ -54,7 +50,7 @@ The teaching assistants for the duration of this course are
 
 - Hargun Oberoi
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
 
 
 They will be assisted, especially on the forums, by
