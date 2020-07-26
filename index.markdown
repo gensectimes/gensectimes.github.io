@@ -29,10 +29,6 @@ We assume you have a [Univ.AI](https://courses.univ.ai) account, created when yo
 ## Team
 
 ### Dr. Pavlos Protopapas - Your Data Science Guru
-<p align="center">
-  <img src=https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true width="200"/>
-</p>
-
 
 Scientific Director of the Institute for
 Applied Computational Science (IACS).<br>Teaches CS109a, CS109b and the
@@ -47,19 +43,7 @@ and eating.
 The teaching assistants for the duration of this course are
 
 - Varshini Reddy, your head TA
-<p align='center'>
-  <img src=https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true width="200"/>
-</p>
-
 - Hargun Oberoi
-
-<p align = 'center'>
-  <img src=https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true width="200"/>
-
-
-
-
-
 
 They will be assisted, especially on the forums, by
 
