@@ -47,11 +47,11 @@ You can [read more about him here](https://www.univ.ai/teams/pavlos-protopapas-2
 
 The teaching assistants for the duration of this course are
 
-#### Varshini Reddy, your head TA
+### Varshini Reddy, your head TA
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
 
-#### Hargun Oberoi
+### Hargun Oberoi
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
 
