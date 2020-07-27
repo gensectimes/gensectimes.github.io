@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
-title: C001
+title: Artificial Intelligence - AI1
 ---
 
 ## Artificial Intelligence - AI1
@@ -82,8 +82,6 @@ A session will have the following pedagogy layout which will be repeated four ti
  provide the necessary mathematical background, and provide guidance on technical details. 
 - Sessions will be accompanied by relevant examples to clarify key concepts and techniques.
 
-
-![](lecture.PNG)
 
 
 ### Lab - What to expect

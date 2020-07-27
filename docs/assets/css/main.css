@@ -29,7 +29,7 @@ html { font-size: 15px; }
 
 /* body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #FFFEF5; color: #343746; max-width: 1400px; counter-reset: sidenote-counter; } */
 /* article { position: relative; padding: 0rem 0rem; }*/
-body { width: 100%; padding: 0rem 0rem; margin: 0 0; font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #F7F6E9; color: #343746; /*max-width: 1400px;*/ counter-reset: sidenote-counter; }
+body { width: 100%; padding: 0rem 0rem; margin: 0 0; font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #ffffff; color: #343746; /*max-width: 1400px;*/ counter-reset: sidenote-counter; }
 
 article { width: 87.5%; max-width: 1400px; margin-left: auto; margin-right: auto; padding-left: 12.5%; padding-top: 3rem; position: relative; /*padding: 0rem 0rem;*/ }
 
@@ -244,7 +244,7 @@ div.sourceCode code, pre:not(.sourceCode) code { font-size: 0.9rem; }
 
 @media (max-width: 760px) { div.sourceCode, pre:not(.sourceCode) { width: 100%; } }
 
-div.sourceCode, pre:not(.sourceCode) { background: #FDF6E3; }
+div.sourceCode, pre:not(.sourceCode) { background: #eecb69; }
 
 pre code { color: #657B83; }
 
