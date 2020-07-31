@@ -73,7 +73,7 @@ Each week shall include:
 
 ### Session - What to expect
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/lecture.png?raw=true)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varsession.png?raw=true)
 
 A session will have the following pedagogy layout which will be repeated four times:
 
@@ -86,7 +86,7 @@ A session will have the following pedagogy layout which will be repeated four ti
 
 ### Lab - What to expect
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/lab.png?raw=true)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varlab.png?raw=true)
 
 
 A lab is a TA driven one hour session that is divided into 3 major parts. 
@@ -100,7 +100,8 @@ and homeworks are welcome.
 directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
 
 
- ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/content.jpeg?raw=true)
+ ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varlecture.png?raw=true)
+ 
 
 
 ## The Class
@@ -113,7 +114,7 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/schedule.jpg?raw=true)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varschedule.jpg?raw=true)
 
 
 *NOTE*: Below timings are in IST
