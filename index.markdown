@@ -101,8 +101,6 @@ directed towards giving a brief overview of the homework problem. We will discus
 
 
  ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varlecture.png?raw=true)
- 
-
 
 ## The Class
 
@@ -114,7 +112,7 @@ Please check your mail for more information.
 
 ### High level course schedule 
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varschedule.jpg?raw=true)
+![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varschedule.png?raw=true)
 
 
 *NOTE*: Below timings are in IST
