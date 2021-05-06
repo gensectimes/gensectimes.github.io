@@ -159,31 +159,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .iframe-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 /*@media (max-width: 760px) { body { width: 84%; padding-left: 8%; padding-right: 8%; }*/
-@media (max-width: 760px) { body { width: 100%; padding-left: 0%; padding-right: 0%; }
-  article { width: 91%; padding-left: 4.5%; padding-right: 4.5%; padding-top: 1.5rem; }
-  nav.group { width: 91%; padding-left: 4.5%; padding-right: 4.5%; position: relative; vertical-align: baseline; padding-top: 1rem; padding-bottom: 1rem; }
-  nav.group a { font-size: 1.0rem; letter-spacing: 0.1em; padding-top: 0.3rem; padding-bottom: 0.3rem; padding-right: 0.7rem; text-decoration: none; display: inline-block; float: left; margin-top: 0; margin-bottom: 0; vertical-align: baseline; }
-  span.logomed { font-size: 1.0rem; font-weight: 500; letter-spacing: 0.02em; }
-  span.logolight { font-size: 1.0rem; font-weight: 300; letter-spacing: 0.01em; }
-  span.pullright { float: left; }
-  header > h1 { margin-top: 2rem; margin-bottom: 1.5rem; font-size: 2.5rem; line-height: 1; margin-left: auto; margin-right: auto; width: 91%; padding-left: 4.5%; padding-right: 4.5%; padding-top: 2rem; padding-bottom: 0rem; position: relative; }
-  div.articalia { width: 91%; padding-left: 4.5%; padding-right: 4.5%; position: relative; margin-left: auto; margin-right: auto; }
-  p.byline { width: 55%; padding-bottom: 0rem; }
-  p.summary { padding-right: 0.5rem; font-size: 1.0rem; line-height: 1.3; }
-  hr, section > p, section > footer, section > table { width: 100%; }
-  pre.code { width: 97%; }
-  section > ol { width: 90%; }
-  section > ul { width: 90%; }
-  figure { max-width: 90%; }
-  figcaption, figure.fullwidth figcaption { margin-right: 0%; max-width: none; }
-  blockquote { margin-left: 1.5em; margin-right: 0em; }
-  blockquote p, blockquote footer { width: 100%; }
-  label.margin-toggle:not(.sidenote-number) { display: inline; }
-  .sidenote, .marginnote { display: none; }
-  .margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote { display: block; float: left; left: 1rem; clear: both; width: 95%; margin: 1rem 2.5%; vertical-align: baseline; position: relative; }
-  label { cursor: pointer; }
-  div.table-wrapper, table { width: 85%; }
-  img { width: 100%; } }
+@media (max-width: 760px) { body { width: 100%; padding-left: 0%; padding-right: 0%; } article { width: 91%; padding-left: 4.5%; padding-right: 4.5%; padding-top: 1.5rem; } nav.group { width: 91%; padding-left: 4.5%; padding-right: 4.5%; position: relative; vertical-align: baseline; padding-top: 1rem; padding-bottom: 1rem; } nav.group a { font-size: 1.0rem; letter-spacing: 0.1em; padding-top: 0.3rem; padding-bottom: 0.3rem; padding-right: 0.7rem; text-decoration: none; display: inline-block; float: left; margin-top: 0; margin-bottom: 0; vertical-align: baseline; } span.logomed { font-size: 1.0rem; font-weight: 500; letter-spacing: 0.02em; } span.logolight { font-size: 1.0rem; font-weight: 300; letter-spacing: 0.01em; } span.pullright { float: left; } header > h1 { margin-top: 2rem; margin-bottom: 1.5rem; font-size: 2.5rem; line-height: 1; margin-left: auto; margin-right: auto; width: 91%; padding-left: 4.5%; padding-right: 4.5%; padding-top: 2rem; padding-bottom: 0rem; position: relative; } div.articalia { width: 91%; padding-left: 4.5%; padding-right: 4.5%; position: relative; margin-left: auto; margin-right: auto; } p.byline { width: 55%; padding-bottom: 0rem; } p.summary { padding-right: 0.5rem; font-size: 1.0rem; line-height: 1.3; } hr, section > p, section > footer, section > table { width: 100%; } pre.code { width: 97%; } section > ol { width: 90%; } section > ul { width: 90%; } figure { max-width: 90%; } figcaption, figure.fullwidth figcaption { margin-right: 0%; max-width: none; } blockquote { margin-left: 1.5em; margin-right: 0em; } blockquote p, blockquote footer { width: 100%; } label.margin-toggle:not(.sidenote-number) { display: inline; } .sidenote, .marginnote { display: none; } .margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote { display: block; float: left; left: 1rem; clear: both; width: 95%; margin: 1rem 2.5%; vertical-align: baseline; position: relative; } label { cursor: pointer; } div.table-wrapper, table { width: 85%; } img { width: 100%; } }
 
 /* The default x-height for code is slightly too large in side notes */
 .marginnote code, .sidenote code { font-size: 0.9rem; }

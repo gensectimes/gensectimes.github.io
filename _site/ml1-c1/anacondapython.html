@@ -1,0 +1,133 @@
+<p>Please try these things out before you come to the first class!</p>
+
+<h2 id="first-install-anaconda">First Install Anaconda</h2>
+
+<p>You need to first install Anaconda Python. The packages are <a href="https://www.anaconda.com/products/individual#Downloads">here</a>. You need to install the Python 3.7 version</p>
+
+<p>These short videos from our youtube channel (recorded by Akshaj) walk you through the process of downloading and installing Anaconda.</p>
+
+<p>First download:</p>
+
+<iframe width="916" height="491" src="https://www.youtube.com/embed/oJk4wbWCBIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Then install:</p>
+
+<iframe width="887" height="499" src="https://www.youtube.com/embed/HHnoXU-BcPE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2 id="starting-anaconda">Starting Anaconda</h2>
+
+<p><img src="anacondapython.assets/ana_nav_big_jl.png" alt="" /></p>
+
+<p>(1) Bring up the “Anaconda Navigator” from your Start Menu, Panel or text-entry point.</p>
+
+<p>(2) Then click on “Jupyterlab”. This will open up a web browser for you with a screen that looks like the next picture.</p>
+
+<p><img src="anacondapython.assets/launcherbig_jl.png" alt="" /></p>
+
+<p>This screen is called the <strong>Launcher</strong>. Click on “Python 3”. This launches a “kernel” or python process, and connects a new document window, called a <strong>Jupyter Notebook</strong> to this process.</p>
+
+<h2 id="the-jupyter-notebook">The Jupyter Notebook</h2>
+
+<p><img src="anacondapython.assets/openacellbig_jl.png" alt="" /></p>
+
+<p>You can now type in text boxes in the Jupyter Notebook, called <strong>cells</strong> in this new window. The left side is a file manager and is likely showing your home folder. This notebook is called <code class="highlighter-rouge">Untitled.ipynb</code>.</p>
+
+<p>Type <code class="highlighter-rouge">1+1</code> in the text box and hit “Shift-Enter” or mouse-press the “Play icon” on the toolbar at the top.</p>
+
+<p><img src="anacondapython.assets/1plus1big_jl.png" alt="" /></p>
+
+<p>The answer 2 is printed out.</p>
+
+<p><img src="anacondapython.assets/after1plus1big_jl.png" alt="" /></p>
+
+<p>A new cell appears at the bottom.</p>
+
+<h2 id="jupyter-cells-have-modes-and-other-gui-controls">Jupyter cells have modes (and other GUI controls)</h2>
+
+<p>By default the cells are in <code class="highlighter-rouge">Code</code> mode. These can be changed to <code class="highlighter-rouge">Markdown</code> mode in the toolbar to enter text. The next picture shows some buttons and what they do.</p>
+
+<p><img src="anacondapython.assets/notebookbig_jl.JPG" alt="fit" /></p>
+
+<p>Lets shift tack a little bit and play around with Python!</p>
+
+<h2 id="python-as-a-calculator">Python as a calculator</h2>
+
+<p>Play around with python in the cells. All the common operators you know and love are available!</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{array}{lll}
+\text { Operator } & \text { Description } & \text { Example } \\
+\hline+ & \text { adds values on either side } & 1.2+2=3.2 \\ - & \text { subtracts the right value from the left } & 1.2-0.2=1.0 \\
+\star & \text { multiplies values on either side } & 1.2 * 2=2.4 \\
+/ & \text { divides the left value by the right } & 4 / 2=2.0 \\
+\% & \text { divides the left value by the right } & 4 \% 3=1 \\
+& \text { and returns the remainder } & \\
+\star \star & \text { exponentiate the left value by the right } & 3 \star \star 2=9 \\
+/ / & \text { divides the left value by the right } & 3 / / 2=1 \\
+& \text { and removes the decimal part } &
+\end{array} %]]></script>
+
+<h2 id="variables-in-python">Variables in Python</h2>
+
+<p>Variables are labels for values. And values are things that fit into memory locations, such as the word hello. A variable is a post-it on that pice of memory, a pointer if you like.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">Var</span> <span class="o">=</span> <span class="s">"hello"</span>
+</code></pre></div></div>
+
+<p><img src="anacondapython.assets/labelmem.jpg" alt="" /></p>
+
+<p>Python values have <strong>types</strong>, such as integer,
+boolean, string, floating-point(real).</p>
+
+<p>Input:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">var1</span> <span class="o">=</span> <span class="mi">7</span>
+<span class="n">var2</span> <span class="o">=</span> <span class="mf">7.01</span>
+<span class="n">var3</span> <span class="o">=</span> <span class="s">"Hello World"</span>
+<span class="n">var4</span> <span class="o">=</span> <span class="bp">True</span>
+<span class="k">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">var1</span><span class="p">),</span> <span class="nb">type</span><span class="p">(</span><span class="n">var2</span><span class="p">))</span>
+<span class="k">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">var3</span><span class="p">),</span> <span class="nb">type</span><span class="p">(</span><span class="n">var4</span><span class="p">))</span>
+</code></pre></div></div>
+<p>Output:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;class 'int'&gt;, &lt;class 'float'&gt;
+&lt;class 'str'&gt;, &lt;class 'bool'&gt;
+</code></pre></div></div>
+
+<h2 id="python-has-conditionals">Python has conditionals</h2>
+
+<p>There are comparison operators in python, which can be used for flow of control in the language:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{array}{lll}
+\text { Operator } & \text { Description } & \text { Example }  \\
+\hline== & \text { checks if values on either side are equal } & 1==2 \text { is False } \\
+!= & \text { checks if values on either side are unequal } & 1 !=2 \text { is True } \\
+\gt & \text { checks if left value is greater } & 1 \gt 2 \text { is False } \\
+\lt & \text { checks if left value is smaller } & 1 \lt 2 \text { is True } \\
+\ge & \text { checks if left value is greater or equal } & 2 \ge 2 \text { is True } \\
+\le & \text { checks if left value is smaller or equal } & 1 \le 2 \text { is True }
+\end{array} %]]></script>
+
+<p>So code with conditionals looks a little bit like this:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">var1</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">var2</span> <span class="o">=</span> <span class="mi">10</span>
+
+<span class="k">if</span> <span class="n">var1</span> <span class="o">==</span> <span class="n">var2</span><span class="p">:</span> <span class="c1"># colon followed by an indented next line
+</span>    <span class="k">print</span><span class="p">(</span><span class="s">"The values are equal"</span><span class="p">)</span>
+<span class="k">elif</span> <span class="p">(</span><span class="n">var1</span> <span class="o">&lt;</span> <span class="n">var2</span><span class="p">):</span> <span class="c1"># conditional can be inside brackets
+</span>    <span class="k">print</span><span class="p">(</span><span class="s">"First variable is lesser than the second variable"</span><span class="p">)</span>  
+<span class="k">else</span><span class="p">:</span> <span class="c1"># when nothing matches, do this. we keep the colon-indent
+</span>    <span class="k">print</span><span class="p">(</span><span class="s">"Second variable is lesser than the first variable"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h2 id="pythons-colon-indent">Python’s colon-indent</h2>
+
+<p>Notice that code which runs when one or another condition is true is idented.</p>
+
+<p><strong>INDENTED?</strong></p>
+
+<p>When i first saw that Python has no braces, but instead uses indentation, I was repulsed and went back to writing perl. But a few months later I tried it again, and I was hooked.</p>
+
+<p>The identation is used in function definition, conditionals, pretty much everywhere you might think it natural, because there is a “mental” scope change.</p>
