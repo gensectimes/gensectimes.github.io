@@ -3,32 +3,39 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: index
-title: Artificial Intelligence - AI1
+title: Python for Data Science
+heroimage: pythongreen.png
 ---
 
-## Artificial Intelligence - AI1
+## PyDS : Python for Data Science
 
->*Statistics. Math. Computer Science. Physics. Long ago, the four disciplines lived together in harmony. Then, everything changed when the Computer Science attacked. Only a master of all four elements, could stop them, but when the world needed it most, it was not invented. A few years ago the world  discovered the new master, a  scientist called data scientist,a master of all four elements*
 
-Welcome to the **First Edition** of AI1. 
-The objective of this module is to provide fundamental understandings of machine learning models 
-and get you working with the basic concepts of ML and AI. 
+Welcome to the **First Edition** of PyDS
+. 
+The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
-You will start with the regression models (KNN, Linear, Multi, Poly) and then move on to classification models (kNN, Logistic).
+You will start with the basics of python, statistics, linear algebra and calculus. 
 
-Finally, the course will provide a basic understanding of modern neural networks. Along the way, you will operationalize the key concepts of machine learning: picking the right complexity, 
-preventing overfitting, regularization, and model evaluation. 
+Finally, the course will provide a basic introduction to linear regression from scratch. 
 
-At the end of this module, 
-you will be able to run basic machine learning models, and tell how well they are performing. 
-
+At the end of this module, you will have the tools and know the concepts needed to successfully undertake a rigorous course in machine learning.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
 
+
+## Interested in joining?
+
+[LINKS DON'T WORK AT THE MOMENT]
+
+> If you would like to apply to this course, please go [here](https://application.univ.ai/applications). 
+
+> We also provide this course as part of our Masters and Accelerated program, check this [link](https://www.univ.ai/programs#ai) out to get more information and apply.
+
+
 ## The Team
 
-### Dr. Pavlos Protopapas 
+### Dr. Pavlos Protopapas
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
 
@@ -40,117 +47,84 @@ astrostatistics and he is excited about
 the new telescopes coming online in
 the next few years. 
 
-You can [read more about him here](https://www.univ.ai/teams/pavlos-protopapas-2).
+You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
 
-The teaching assistants for the duration of this course are
+**NOTE** This course will be delivered by the Dr. Pavlos Protopapas's research group, StellarDNN. 
 
-### Varshini Reddy 
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varshini.jpeg?raw=true)
-
-- Varshini is an Artificial Intelligence Researcher and Teaching Fellow at Univ.AI. 
-- Previously, she was a Research Associate at the Indian Institute of Science.
-- She is passionate about working at the interface of AI and social impact.
+To know more about StellarDNN, click here.
 
 ### Hargun Oberoi
 
 ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
 
-- Hargun is a Masters graduate of Mathematics from BITS Pilani University. 
+- Hargun is an AI and ML Researcher and Teaching Fellow at Univ.AI
+- He is a Masters graduate of Mathematics from BITS Pilani University. 
 - Previously, he has worked as a client project manager at Cisco Systems for three years.
 
+### TA #1
+
+### TA #2
 
 ## The Coursework
 
 
 We have very carefully designed the coursework to give you, the student, a wholesome learning experience.
 
-Each week shall include:
-
--  2 Sessions
-- 2 Labs
-- Office hours
+We will hold two 90 minute weekend sessions per week for a total of five weeks. 
 
 ### Session - What to expect
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varsession.png?raw=true)
+![](index.assets/session.jpeg)
 
-A session will have the following pedagogy layout which will be repeated four times:
+Before the session begins, students are expected to complete a pre-class reading assignment and and attempt a quiz based on the same.
+
+A session will have the following pedagogy layout which will be repeated three times:
 
 - Approx. 15 minutes of live online instruction followed by approx 15 minutes of Q/A + Quiz + Exercises. 
 - Sessions will help students develop the intuition for the core concepts, 
  provide the necessary mathematical background, and provide guidance on technical details. 
 - Sessions will be accompanied by relevant examples to clarify key concepts and techniques.
 
+After the session, students are expected to complete a short post-class quiz based on the principal concepts covered in class.
 
-
-### Lab - What to expect
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varlab.png?raw=true)
-
-
-A lab is a TA driven one hour session that is divided into 3 major parts. 
-- Each lab begins by revisiting the 
-Quizzes and Exercises done in the previous lecture session. 
-- After discussing exercises,
-we will have a semi-formal Q/A session. All doubts pertaining, but not limited, to the previous session, 
-and homeworks are welcome.
-
-- The last part of the labs deals predominantly with the upcoming homeworks. It is 
-directed towards giving a brief overview of the homework problem. We will discuss some code to help you get started.   
-
-
- ![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varlecture.png?raw=true)
+![](index.assets/session.png)
 
 ## The Class
 
 ### Welcome Session - Preparing for this class 
 
-There will be a **Welcome Session** scheduled on ```15 September 2020``` at ``` 7:00 PM``` IST for all registered students. 
-Please check your mail for more information.
+Please check your mail for more information regarding the platform and the course.
 
 
 ### High level course schedule 
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/varschedule.png?raw=true)
+![](index.assets/schedule.png)
 
 
 *NOTE*: Below timings are in IST
 
-**Lecture Sessions**: 
-- Wednesday Series: ```8:00 PM - 10:00 PM ```
-- Saturday Series: ```6:30 PM - 8:30 PM ```
+**Sessions**: 
 
-**Lab Sessions**: 
-- Thursday Series: ```7:30 PM - 8:30 PM``` 
-- Sunday Series: ```3:00 PM - 4:00 PM```
+- Saturday Series: ```4:30 PM - 6:00 PM ```
 
-**Office hours**: 
-
-- Mondays: ```TBD```
-
- 
-
-### Course Pre-Requisites 
-
-Your are expected to have a working knowledge of python, along with these three libraries:
-
-- Numpy
-- Pandas
-- Matplotlib
-
-All exercises in this course will be done in [jupyter notebooks](https://jupyter.org/)
-
-> Note: No prior knowledge of machine learning libraries is necessary for this module
+- Sunday Series: ```4:30 PM - 6:00 PM ```
 
 
-Before you begin the course, we have prepared for you a simple exercise to ensure your proficieny of the above libraries. 
+Please find a more detailed course schedule [here](/schedule.md).
 
-This will help you assess your preparedness for the course, and will also help you familiarize yourself with the platform.
 
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/edplatform.png?raw=true)
+### Course Topics 
 
-Please find a more detailed summary of the pre-requisites for this program [here]() 
+Basic Python: Data types, data structures, functions
+
+Advanced Python: Python Classes
+
+Probability & Statistics
+
+Linear Algebra & Calculus
+All exercises in this course will be done in jupyter notebooks. 
+
+> Note: Prior knowledge of programming is not necessary for this module
 
 
 ## Diversity & Inclusion
@@ -170,29 +144,16 @@ Reference:
 
 ## Logistics - What you need to begin?
 
-We assume you have a [Univ.AI](https://courses.univ.ai) account, created when you signed up at [courses.univ.ai](https://courses.univ.ai). 
+We assume you have a [Univ.AI](https://course.univ.ai) account, created when you signed up at [course.univ.ai](https://courses.univ.ai). 
 If not, email [programs@univ.ai](mailto:programs@univ.ai).
 
 
 ### Education software we use
 
 - Our lectures and labs are carried out via [Zoom](zoom.md) (install instructions).
-- Quizzes & exercises will be conducted on the digital learning platform [Ed](https://edstem.org/).
-- Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. 
+- Quizzes & exercises will be conducted on the digital learning platform [Ed](edstem.md).
+- Ocassionally, we may conduct in-class contests on [kaggle](https://www.kaggle.com/). Please register on kaggle and familarize yourself with it, if you haven't already done so. This is a short video that will help you learn how to use [kaggle](https://www.youtube.com/watch?v=Gp_qv317Gew).
 
-All exercises in this course will be done in [jupyter notebooks](https://jupyter.org/)
+All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
-Our module policies around collaboration and grading are listed [here](policy.md). Our expectations of you are also laid out in that document.
-
-
-## Parting note
-
-As you will learn in this course, data science is not just about writing efficient algorithms.
-
-It requires proficiency in critical thinking, ideation & presentation, along with strong foundations in statistics, computer science & mathematics.
-
-Keeping that in mind, you are adviced to give your full active attention to every session, homework & exercise.
-
-We wish you best of luck for your data science journey.
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/end.jpeg?raw=true)
+Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
