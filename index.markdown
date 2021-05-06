@@ -12,7 +12,7 @@ heroimage: pythongreen.png
 
 Welcome to the **First Edition** of PyDS
 . 
-The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
+The objecive of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
 You will start with the basics of python, statistics, linear algebra and calculus. 
 
@@ -157,3 +157,5 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
 Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
+
+![](index.assets/pavlosaristotle.png)
