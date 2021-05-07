@@ -17,9 +17,7 @@ The objective of this module is to provide fundamental understanding of the pyth
 You will start with the basics of python programming, including python data structures, functions and classes.
 
 
-We follw this up by an introduction to Numerical Python (NumPy).
-
-Finally, the course will provide a basic introduction to linear regression from scratch. 
+We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch. 
 
 At the end of this module, you will have the tools and know the concepts needed to successfully undertake a rigorous course in machine learning.
 
