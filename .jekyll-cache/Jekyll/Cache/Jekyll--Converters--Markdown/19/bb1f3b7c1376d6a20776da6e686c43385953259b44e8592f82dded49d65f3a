@@ -1,4 +1,4 @@
-I"<h2 id="pyds-python-for-data-science">PyDS : Python for Data Science</h2>
+I"�!<h2 id="pyds-python-for-data-science">PyDS : Python for Data Science</h2>
 <p>Welcome to the <strong>First Edition</strong> of PyDS . The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.</p>
 <p>You will start with the basics of python programming, including python data structures, functions and classes. We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch.</p>
 <p>Along the way, we will introduce foundational ideas of statistics, linear algebra and calculus.</p>
@@ -14,7 +14,7 @@
 </blockquote>
 <h2 id="the-team">The Team</h2>
 <p><img src="/index.assets/teampavlos.png" /></p>
-<p><strong>NOTE</strong> This course will be delivered by the Dr. Pavlos Protopapas’s research group, StellarDNN.</p>
+<p><strong>NOTE</strong> This course will be delivered by the Dr. Pavlos Protopapas’ research group, StellarDNN.</p>
 <p>To know more about StellarDNN, click here.</p>
 <h2 id="the-coursework">The Coursework</h2>
 <p>We have very carefully designed the coursework to give you, the student, a wholesome learning experience.</p>
@@ -50,6 +50,61 @@
 <blockquote>
 <p>Note: Prior knowledge of programming is not necessary for this module</p>
 </blockquote>
+<h3 id="detailed-session-wise-topics">Detailed Session-wise topics</h3>
+<h4 id="session-1">Session 1:</h4>
+<ul>
+<li>Introduction to Python</li>
+<li>Data Types, iterators, python operations,</li>
+<li>order of operations, logical operators</li>
+</ul>
+<h4 id="session-2">Session 2:</h4>
+<ul>
+<li>Python Data Structures - Lists, Dictionaries, Tuples</li>
+<li>List/dictionary comprehensions</li>
+<li>Enumeration</li>
+</ul>
+<h4 id="session-3">Session 3:</h4>
+<ul>
+<li>Python Functions - Arguments, keyword arguments, etc.</li>
+<li>Anonymous functions (lambda function)</li>
+</ul>
+<h4 id="session-4">Session 4:</h4>
+<ul>
+<li><p>Classes: Constructors vs Instantiations</p></li>
+<li><p>Methods vs. Attributes</p></li>
+</ul>
+<h4 id="session-5">Session 5:</h4>
+<ul>
+<li>Working with strings</li>
+<li>String formatting</li>
+<li>Reading &amp; writing file</li>
+</ul>
+<h4 id="session-6">Session 6:</h4>
+<ul>
+<li>Debugging skills</li>
+<li>Exception handling</li>
+<li>Finding documentation</li>
+<li>Process of elimination</li>
+</ul>
+<h4 id="session-7-stats-probability">Session 7: Stats &amp; Probability</h4>
+<ul>
+<li>Random Variable</li>
+<li>Probability Density Function</li>
+<li>Some ‘standard’ distributions and their mean/stdev (Normal, Binomial). Properties of mean and variance</li>
+</ul>
+<h4 id="session-8-numpy">Session 8: NumPy</h4>
+<p>Numpy</p>
+<ul>
+<li>Indexing / slicing</li>
+<li>Shape &amp; reshape</li>
+<li>Zeros, ones, arbitrary array declaration</li>
+</ul>
+<h4 id="session-9-calculus-and-linear-algebra">Session 9: Calculus and Linear Algebra:</h4>
+<ul>
+<li>Derivatives (including partial)</li>
+<li>Matrix Operations</li>
+<li>Matrix Multiplication</li>
+</ul>
 <h2 id="diversity-inclusion">Diversity &amp; Inclusion</h2>
 <p>We actively seek and welcome people of diverse identities, from across the spectrum of disciplines and methods since Artificial Intelligence (AI) increasingly mediates our social, cultural, economic, and political interactions [1].</p>
 <p>We believe in creating and maintaining an inclusive learning environment where all members feel safe, respected, and capable of producing their best work.</p>

@@ -101,6 +101,63 @@ All exercises in this course will be done in jupyter notebooks.
 
 > Note: Prior knowledge of programming is not necessary for this module
 
+### Detailed Session-wise topics
+
+#### Session 1: 
+
+- Introduction to Python 
+- Data Types, iterators, python operations, 
+- order of operations, logical operators
+
+#### Session 2: 
+
+- Python Data Structures - Lists, Dictionaries, Tuples
+- List/dictionary comprehensions
+- Enumeration
+
+#### Session 3:
+
+- Python Functions - Arguments, keyword arguments, etc. 
+- Anonymous functions (lambda function)
+
+#### Session 4:
+
+- Classes: Constructors vs Instantiations
+
+- Methods vs. Attributes
+
+#### Session 5:
+
+- Working with strings
+- String formatting
+- Reading & writing file
+
+#### Session 6:
+
+- Debugging skills
+- Exception handling 
+- Finding documentation
+- Process of elimination
+
+#### Session 7: Stats & Probability 
+
+- Random Variable 
+- Probability Density Function
+- Some ‘standard’ distributions and their mean/stdev (Normal, Binomial). Properties of mean and variance
+
+#### Session 8: NumPy
+
+Numpy
+
+- Indexing / slicing
+- Shape & reshape
+- Zeros, ones, arbitrary array declaration
+
+#### Session 9: Calculus and Linear Algebra: 
+
+- Derivatives (including partial)
+- Matrix Operations
+- Matrix Multiplication
 
 ## Diversity & Inclusion
 
