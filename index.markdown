@@ -14,12 +14,11 @@ Welcome to the **First Edition** of PyDS
 . 
 The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
-You will start with the basics of python programming, including python data structures, functions and classes.
+You will start with the basics of python programming, including python data structures, functions and classes. We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch. 
 
+Along the way, we will introduce foundational ideas of statistics, linear algebra and calculus.
 
-We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch. 
-
-At the end of this module, you will have the tools and know the concepts needed to successfully undertake a rigorous course in machine learning.
+At the end of this module, you will have the tools and the concepts needed to successfully undertake a rigorous course in machine learning.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
 
@@ -37,7 +36,7 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ![](index.assets/teampavlos.png)
 
-**NOTE** This course will be delivered by the Dr. Pavlos Protopapas's research group, StellarDNN. 
+**NOTE** This course will be delivered by the Dr. Pavlos Protopapas' research group, StellarDNN. 
 
 To know more about StellarDNN, click here.
 

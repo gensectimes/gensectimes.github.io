@@ -1,9 +1,8 @@
-I"¹<h2 id="pyds-python-for-data-science">PyDS : Python for Data Science</h2>
+I"<h2 id="pyds-python-for-data-science">PyDS : Python for Data Science</h2>
 <p>Welcome to the <strong>First Edition</strong> of PyDS . The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.</p>
-<p>You will start with the basics of python programming, including python data structures, functions and classes.</p>
-<p>We follw this up by an introduction to Numerical Python (NumPy).</p>
-<p>Finally, the course will provide a basic introduction to linear regression from scratch.</p>
-<p>At the end of this module, you will have the tools and know the concepts needed to successfully undertake a rigorous course in machine learning.</p>
+<p>You will start with the basics of python programming, including python data structures, functions and classes. We follow this up by an introduction to Numerical Python (NumPy) and finally, the course will provide a basic introduction to linear regression from scratch.</p>
+<p>Along the way, we will introduce foundational ideas of statistics, linear algebra and calculus.</p>
+<p>At the end of this module, you will have the tools and the concepts needed to successfully undertake a rigorous course in machine learning.</p>
 <p>This page introduces you to the team, the basic instructions, the schedule and various elements of our class.</p>
 <h2 id="interested-in-joining">Interested in joining?</h2>
 <p>[LINKS DONâ€™T WORK AT THE MOMENT]</p>
