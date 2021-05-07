@@ -12,16 +12,18 @@ heroimage: pythongreen.png
 
 Welcome to the **First Edition** of PyDS
 . 
-The objecive of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
+The objective of this module is to provide fundamental understanding of the python programming language needed to follow an introductory course in Data Science.
 
-You will start with the basics of python, statistics, linear algebra and calculus. 
+You will start with the basics of python programming, including python data structures, functions and classes.
+
+
+We follw this up by an introduction to Numerical Python (NumPy).
 
 Finally, the course will provide a basic introduction to linear regression from scratch. 
 
 At the end of this module, you will have the tools and know the concepts needed to successfully undertake a rigorous course in machine learning.
 
 This page introduces you to the team, the basic instructions, the schedule and various elements of our class.
-
 
 
 ## Interested in joining?
@@ -35,35 +37,11 @@ This page introduces you to the team, the basic instructions, the schedule and v
 
 ## The Team
 
-### Dr. Pavlos Protopapas
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/pavlosimage.jpeg?raw=true)
-
-- Scientific Director of the Institute for
-Applied Computational Science (IACS).
-- Teaches Introduction to Data Science ([CS109a](https://harvard-iacs.github.io/2019-CS109A/)), Advanced Topics in Data Science ([CS109b](https://harvard-iacs.github.io/2020-CS109B/)) and Advanced Practical Data Science ([AC295](https://harvard-iacs.github.io/2020-AC295/)).
-- He is a leader in
-astrostatistics and he is excited about
-the new telescopes coming online in
-the next few years. 
-
-You can [read more about him here](https://www.univ.ai/team/pavlos-protopapas-2).
+![](index.assets/teampavlos.png)
 
 **NOTE** This course will be delivered by the Dr. Pavlos Protopapas's research group, StellarDNN. 
 
 To know more about StellarDNN, click here.
-
-### Hargun Oberoi
-
-![](https://github.com/hargun3045/blog-dump/blob/master/pavlos-website/hargun.jpeg?raw=true)
-
-- Hargun is an AI and ML Researcher and Teaching Fellow at Univ.AI
-- He is a Masters graduate of Mathematics from BITS Pilani University. 
-- Previously, he has worked as a client project manager at Cisco Systems for three years.
-
-### TA #1
-
-### TA #2
 
 ## The Coursework
 
@@ -157,5 +135,16 @@ If not, email [programs@univ.ai](mailto:programs@univ.ai).
 All exercises and homeworks in this course will be done in jupyter notebooks. This [link](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) will help you setup jupyter lab and get you acquianted with jupyter notebooks.
 
 Our module policies around collaboration and grading are listed [here](/policy.md). Our expectations of you are also laid out in that document.
+
+
+## Parting Note
+
+As you will learn in the course, programming for data science is not just about writing efficient code.
+
+It requires proficiency in critical thinking, ideation & experimentation.
+
+Keeping that in mind, you are advised to give your full active attention to every session.
+
+We wish you well for the start of your data science journey.
 
 ![](index.assets/pavlosaristotle.png)
