@@ -72,7 +72,7 @@ GEM
     thread_safe (0.3.6)
     tufte-pandoc-jekyll (0.11.4)
       jekyll-pandoc (~> 2.0)
-    tzinfo (1.2.9)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2021.1)
       tzinfo (>= 1.0.0)
